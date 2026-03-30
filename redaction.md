@@ -41,6 +41,8 @@ La méthode BEM est une façon claire et précise de nommer son code en SASS. Le
 
 ## 3. Préprocesseur, c'est quoi ?
 
+Le préprocesseur permet de compiler le fichier.
+
 ---
 
 ## 4. Architecture 7-1
@@ -105,7 +107,7 @@ En utilisant `@use` et en trouvant le chemin exact pour l'importer vous pourrez 
 
 ## 8. Mixins
 
-
+Les mixins permettent d'éviter les répétitions.
 
 ---
 
