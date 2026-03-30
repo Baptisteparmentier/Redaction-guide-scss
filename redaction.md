@@ -149,6 +149,16 @@ Et pour chaque fichier `SCSS` pour sera créée vous aurez besoin `@use`
 
 ⚠️ Il faut bien faire choisir le chemin de votre module sinon il ne sera pas possible d'utiliser ce que vous voulez importer.
 
+La bonne méthode ✅ :
+
+![alt text](image-5.png)
+
+La mauvaise méthode ❌ :
+
+![alt text](image-6.png)
+
+⚠️ Il est important de mettre `as *;` pour bien tout importer.
+
 ---
 
 Voilà pour ce guide, vous avez toutes les clés en main pour pouvoir coder un site rapidement et structuré !
